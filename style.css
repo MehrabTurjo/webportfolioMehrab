@@ -1,0 +1,108 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+    color: orange;
+}
+.halfpart{
+    color: rgb(85, 86, 86);
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.halfpart img{
+    width: 100%;
+}
+
+.halfpart1{
+        color: rgb(85, 86, 86);
+        width: 40%;
+        float: right;
+        margin-right: 6%;
+        padding-right: 2%;
+}
+
+.halfpart1 img{
+    width: 100%;
+}
+
+.name{
+    color: orange;
+}
+
+.world{
+    color: aqua;
+}
+
+p{
+    font-weight: light bold;
+}
+
+button{
+    border-radius: 5px;
+    border: orangered;
+    background-color: orangered;
+    font-size:large;
+    font-family: inherit;
+    font-weight: bold;
+    color: aliceblue;
+    cursor: pointer;  
+}
+.top-banner{
+height: 500px;
+background-image: url(img/top-banner.png);
+background-repeat: no-repeat;
+}
+
+
+.dream{
+    
+    height: 500px;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.button2{
+    border-radius: 5px;
+    font-size:large;
+    font-family: inherit;
+    font-weight: bold;
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+.last{
+    margin-top: 50px;
+   
+}
+.exp{
+    color:rgb(85, 86, 86) ;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+ 
+h2{
+    color: rgb(85, 86, 86);
+}
+
+.box{
+    box-shadow: 10px 10px 40px grey;
+    border-left: 5px solid orangered;
+    width: 50%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    align-items: center;
+    padding: 2%;
+    
+}
+footer{
+   text-align: center;
+}
